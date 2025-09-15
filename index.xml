@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>https://Lalawn.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Sep 2025 12:38:09 +0300</lastBuildDate>
+    <atom:link href="https://Lalawn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas Puslapis</title>
+      <link>https://Lalawn.github.io/posts/pirmas-puslapis/</link>
+      <pubDate>Mon, 15 Sep 2025 12:38:09 +0300</pubDate>
+      <guid>https://Lalawn.github.io/posts/pirmas-puslapis/</guid>
+      <description>&lt;p&gt;Tai yra pirmasis puslapis, sukurtas naudojant PaperMod temą.&lt;/p&gt;
+&lt;p&gt;Hugo yra nuostabus statinių puslapių generatorius!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
